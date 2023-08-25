@@ -1,5 +1,5 @@
 # Lincheck
-This is a linux privilledge escilation checker tool that checks for common linux priviledge escilation techniques.
+This is a linux privilege escalation checker tool that checks for common linux privilege escilation techniques.
 
 Once you have get a initial foothold on a target machine than you can transfer this linux script on to the victim machine with python http server.
 
